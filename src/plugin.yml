@@ -1,0 +1,7 @@
+name: PotLotto
+author: WTX
+main: com.wtx.potlotto.PotLotto
+version: 1.0
+description: An innovative take on the original Lotto plugin. Instead of a currency, items are inside a pot.
+commands:
+ pot:
